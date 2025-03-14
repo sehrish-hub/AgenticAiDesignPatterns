@@ -1,7 +1,11 @@
 AgenticAiDesignPatterns
+
 uv init --package PatternsWithCrewAi
+
 cd PatternsWithCrewAi
-uv add crewai
+
+uv add crewai,
+
 
 🚀 Introducing AI-Powered Multi-Agent Workflows!
 
